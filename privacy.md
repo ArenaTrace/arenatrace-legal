@@ -154,7 +154,7 @@ ArenaTrace（以下「本アプリ」）のプライバシーポリシーです�
 
 本アプリおよび本ポリシーに関するお問い合わせは、以下までご連絡ください。
 
-**（準備中：アプリ公開までに掲載します）**
+**[arenatrace.app@gmail.com](mailto:arenatrace.app@gmail.com)**
 
 ---
 
