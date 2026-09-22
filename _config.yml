@@ -1,0 +1,6 @@
+title: ArenaTrace
+description: Bプレミアの観戦記録とアリーナ制覇を残すアプリ
+theme: jekyll-theme-minimal
+lang: ja
+exclude:
+  - README.md
