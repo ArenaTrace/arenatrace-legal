@@ -2,5 +2,17 @@ title: ArenaTrace
 description: Bプレミアの観戦記録とアリーナ制覇を残すアプリ
 theme: jekyll-theme-minimal
 lang: ja
+
+# テーマの既定はリポジトリ作成者のGitHubユーザー名を
+# 「This project is maintained by ◯◯」として出す。
+# 個人名を公開したくないので明示的に上書きする。
+github:
+  owner_name: ArenaTrace
+  owner_url: https://arenatrace.github.io/arenatrace-legal/
+  repository_url: https://arenatrace.github.io/arenatrace-legal/
+
+# ソースやZIPへのリンクを出さない
+show_downloads: false
+
 exclude:
   - README.md
